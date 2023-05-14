@@ -2,7 +2,7 @@
 
 - 🔭 I am currently working at an outsourcing company and fulfilling many dreams in the future
 - 💬 You ask me everything and I ask you everything
-- 📫 How to reach me: [Facebook] (https://fb.me/contact.0783635341)
+- 📫 How to reach me: [Facebook](https://fb.me/contact.0783635341)
 - ⚡ Fun fact: I learn, share... a lot!
 
 ---
